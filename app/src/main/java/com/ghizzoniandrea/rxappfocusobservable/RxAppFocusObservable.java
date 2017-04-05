@@ -1,4 +1,4 @@
-package com.clownjee.rxappfocusobservable;
+package com.ghizzoniandrea.rxappfocusobservable;
 
 import android.app.Activity;
 import android.app.Application;
@@ -7,7 +7,7 @@ import io.reactivex.Observable;
 import io.reactivex.subjects.ReplaySubject;
 
 /**
- * Created by Clownjee on 2017/3/30.
+ * Created by ghizzoniandrea on 2017/3/30.
  */
 public class RxAppFocusObservable {
 

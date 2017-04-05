@@ -1,4 +1,4 @@
-package com.clownjee.rxappfocusobservable;
+package com.ghizzoniandrea.rxappfocusobservable;
 
 import android.app.Activity;
 import android.app.Application;
